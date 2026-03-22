@@ -1,0 +1,14 @@
+[package]
+name = "simple-gost-template"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["@pine-free", "@cop1cat"]
+license = "MIT"
+description = "Шаблон оформления учебных работ по ГОСТ"
+repository = "https://github.com/cop1cat/simple-gost-template"
+keywords = ["gost", "report", "template", "russian"]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "assets/thumbnail.png"
