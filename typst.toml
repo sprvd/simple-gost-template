@@ -2,7 +2,7 @@
 name = "simple-gost-template"
 version = "0.1.0"
 entrypoint = "lib.typ"
-authors = ["@pine-free", "@cop1cat"]
+authors = ["@pine-free", "@sprvd"]
 license = "MIT"
 description = "Шаблон оформления учебных работ по ГОСТ"
 repository = "https://github.com/cop1cat/simple-gost-template"
